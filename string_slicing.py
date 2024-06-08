@@ -32,7 +32,7 @@ c=a+" "+b
 print(c)
 
 
-# string format
+# string format , string and int combination
 age = 36
 txt = f"My name is John, I am {age}"
 print(txt)
